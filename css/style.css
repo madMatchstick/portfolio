@@ -78,7 +78,7 @@ a {
   color: #f3ac2b;
 }
 a:hover, a:focus, a:active {
-  color: #de930d;
+  /*color: #de930d;*/
   outline: none;
   text-decoration: none;
 }
